@@ -1,0 +1,119 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?lh8a6n');
+  src:  url('fonts/icomoon.eot?lh8a6n#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?lh8a6n') format('truetype'),
+    url('fonts/icomoon.woff?lh8a6n') format('woff'),
+    url('fonts/icomoon.svg?lh8a6n#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-icons_navs-11:before {
+  content: "\e912";
+}
+.icon-icons_navs-12:before {
+  content: "\e913";
+}
+.icon-Flask .path1:before {
+  content: "\e900";
+  color: rgb(255, 255, 255);
+}
+.icon-Flask .path2:before {
+  content: "\e901";
+  margin-left: -1em;
+  color: rgb(96, 216, 196);
+}
+.icon-Flask .path3:before {
+  content: "\e902";
+  margin-left: -1em;
+  color: rgb(96, 216, 196);
+}
+.icon-Flask .path4:before {
+  content: "\e903";
+  margin-left: -1em;
+  color: rgb(96, 216, 196);
+}
+.icon-Flask .path5:before {
+  content: "\e904";
+  margin-left: -1em;
+  color: rgb(96, 216, 196);
+}
+.icon-Flask .path6:before {
+  content: "\e905";
+  margin-left: -1em;
+  color: rgb(96, 216, 196);
+}
+.icon-Flask .path7:before {
+  content: "\e906";
+  margin-left: -1em;
+  color: rgb(96, 216, 196);
+}
+.icon-Hand1 .path1:before {
+  content: "\e907";
+  color: rgb(255, 255, 255);
+}
+.icon-Hand1 .path2:before {
+  content: "\e908";
+  margin-left: -1em;
+  color: rgb(96, 216, 196);
+}
+.icon-Hand1 .path3:before {
+  content: "\e909";
+  margin-left: -1em;
+  color: rgb(96, 216, 196);
+}
+.icon-Hand1 .path4:before {
+  content: "\e90a";
+  margin-left: -1em;
+  color: rgb(96, 216, 196);
+}
+.icon-Hand1 .path5:before {
+  content: "\e90b";
+  margin-left: -1em;
+  color: rgb(96, 216, 196);
+}
+.icon-Hand2 .path1:before {
+  content: "\e90c";
+  color: rgb(255, 255, 255);
+}
+.icon-Hand2 .path2:before {
+  content: "\e90d";
+  margin-left: -1em;
+  color: rgb(96, 216, 196);
+}
+.icon-Hand2 .path3:before {
+  content: "\e90e";
+  margin-left: -1em;
+  color: rgb(96, 216, 196);
+}
+.icon-Hand2 .path4:before {
+  content: "\e90f";
+  margin-left: -1em;
+  color: rgb(96, 216, 196);
+}
+.icon-Person .path1:before {
+  content: "\e910";
+  color: rgb(255, 255, 255);
+}
+.icon-Person .path2:before {
+  content: "\e911";
+  margin-left: -1em;
+  color: rgb(96, 216, 196);
+}
